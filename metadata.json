@@ -1,0 +1,5 @@
+{
+  "name": "Exam Result Date Predictor",
+  "description": "An AI-powered tool to predict exam result announcement dates based on historical data. Select your country, education level, and board to get an estimated date and confidence score.",
+  "requestFramePermissions": []
+}
